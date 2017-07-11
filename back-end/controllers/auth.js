@@ -18,12 +18,8 @@ module.exports = {
                     });
                 }
                 res.status(200).send({token: createToken(result)});
-
             });
-
-
         });
-
     }
 }
 
