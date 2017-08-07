@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="910fb46c-8903-4e32-a3b0-80839cf8f7bf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/src/app/auth/auth.controller.js" afterPath="$PROJECT_DIR$/front-end/src/app/auth/auth.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/src/app/components/navbar/navbar.controller.js" afterPath="$PROJECT_DIR$/front-end/src/app/components/navbar/navbar.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/src/app/components/navbar/navbar.html" afterPath="$PROJECT_DIR$/front-end/src/app/components/navbar/navbar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front-end/src/app/components/navbar/navbar.scss" afterPath="$PROJECT_DIR$/front-end/src/app/components/navbar/navbar.scss" />
-    </list>
+    <list default="true" id="910fb46c-8903-4e32-a3b0-80839cf8f7bf" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -108,8 +102,8 @@
       <file leaf-file-name="auth.controller.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/front-end/src/app/auth/auth.controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            <state relative-caret-position="234">
+              <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -697,12 +691,12 @@
       <workItem from="1499111840113" duration="9985000" />
       <workItem from="1499509039867" duration="17660000" />
       <workItem from="1500053165151" duration="8383000" />
-      <workItem from="1502095011225" duration="13108000" />
+      <workItem from="1502095011225" duration="13820000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53283000" />
+    <option name="totallyTimeSpent" value="53995000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1134,8 +1128,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/front-end/src/app/auth/auth.controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        <state relative-caret-position="234">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
           <folding />
         </state>
       </provider>
