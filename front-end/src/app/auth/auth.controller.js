@@ -21,7 +21,8 @@ export class AuthController {
     // });
     this.$auth.login(this.login.user).then(function (result) {
       vm.$auth.setToken(result.data.token);
-      vm.user = JSON.stringify(result.data.email);
+      // vm.user = JSON.stringify(result.data.email);
+      vm.user = result.data.email;
       localStorage.setItem('user', vm.user);
       vm.user = result.data.email;
       vm.$state.go('home', {});
