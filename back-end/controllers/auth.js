@@ -40,9 +40,10 @@ module.exports = {
                 });
 
             if (req.body.pwd == user.pwd) {
-                console.log(req.body, user.pwd)
+                console.log(req.body, user.pwd, user.email)
                 res.send({
-                    token: createToken(user)
+                    token: createToken(user),
+                    email: user.email
                 });
             } else {
                 return res.status(401).send({
